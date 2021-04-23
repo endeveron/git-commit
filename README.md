@@ -1,4 +1,4 @@
-### Capitalized, short (50 chars or less) summary
+### Add [Fix || Refactor || Optimize] < 50 chars summary
 
 More detailed explanatory text, if necessary.  Wrap it to about 72
 characters or so.  In some contexts, the first line is treated as the
