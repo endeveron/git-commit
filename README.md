@@ -1,4 +1,4 @@
-### Add [Fix || Refactor || Optimize] < 50 chars summary
+### F / B [ Add / Fix / Refactor / Optimize / Remove ] < 50 chars summary
 
 More detailed explanatory text, if necessary.  Wrap it to about 72
 characters or so.  In some contexts, the first line is treated as the
