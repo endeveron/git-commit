@@ -1,6 +1,4 @@
-# git-commit
-
-## Capitalized, short (50 chars or less) summary
+### Capitalized, short (50 chars or less) summary
 
 More detailed explanatory text, if necessary.  Wrap it to about 72
 characters or so.  In some contexts, the first line is treated as the
